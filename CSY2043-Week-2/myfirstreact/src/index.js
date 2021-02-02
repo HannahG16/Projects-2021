@@ -1,6 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const myfirstelement = <p>Welcome to my first react app</p>
+class student extends React.Component {
+    render(){
+        return <h2> im a student </h2>;
+    }
+}
 
-ReactDOM.render(myfirstelement, document.getElementById('element_title'));
+
+ReactDOM.render(<student />, document.getElementById('root'));
