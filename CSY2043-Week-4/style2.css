@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+}
+
+header , footer {
+    width: 100%;
+    text-align: center;
+    height: 70px;
+    background-color: lightblue;
+    font-family: Cambria;
+    font-weight: bold;
+    font-size: 20px;
+}
+header , footer h2 {
+    padding: 15px;
+    margin: auto;
+}
+
+section {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    background-color: lightblue;
+    font-family: Cambria;
+    height: auto;
+}
+
+.container{
+    background-color: rgb(16, 149, 194);
+}
+
+section ul li {
+    text-decoration: none;
+
+}
+
