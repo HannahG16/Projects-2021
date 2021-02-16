@@ -25,14 +25,27 @@
 
 section {
     display: inline-block;
-    width: 49%;
+    width: 48%;
     height: auto;
+    padding: 10px;
 }
 
 .csym019{
     background-color: lightpink;
+    font-family: cambria;
 }
 
 .csym015{
     background-color: lightblue;
+    font-family: cambria;
+}
+
+h1{
+    font-size: 20px;
+    text-align: center;
+}
+
+h2{
+    font-size: 16px;
+    text-align: center;
 }
