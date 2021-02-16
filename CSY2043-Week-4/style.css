@@ -22,3 +22,17 @@
 .part4 > p{
     color: green;
 }
+
+section {
+    display: inline-block;
+    width: 49%;
+    height: auto;
+}
+
+.csym019{
+    background-color: lightpink;
+}
+
+.csym015{
+    background-color: lightblue;
+}
