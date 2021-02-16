@@ -18,3 +18,7 @@
 .part3{
     color: green;
 }
+
+.part4 > p{
+    color: green;
+}
